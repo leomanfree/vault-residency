@@ -1,1 +1,1 @@
-# vault-residency
+# vault-residency-protocol
